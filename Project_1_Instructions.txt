@@ -1,0 +1,7 @@
+Project 1 should include:
+
+1. Your name
+2. A header
+3. Three pieces of evidence
+4. Reasoning for that evidence
+5. A conclusion summarizing all of your points
